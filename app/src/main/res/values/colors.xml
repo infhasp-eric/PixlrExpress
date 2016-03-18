@@ -3,7 +3,5 @@
     <color name="white">#ffffff</color>
     <color name="background">#f6d36f</color>
 
-    <!--Base-->
-    <color name="common_top_bg">#FFD929</color>
-    <color name="common_text_black">#3E363D</color>
+    <color name="transparent">#00000000</color>
 </resources>
