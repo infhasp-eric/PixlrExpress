@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Light.NoTitleBar">
+        <!-- Customize your theme here. -->
+        <!--设置APP整体背景-->
+        <!--<item name="android:windowBackground">@color/background</item>-->
+    </style>
+
+</resources>
